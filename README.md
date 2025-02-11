@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
 <h3 align="center">Enthusiastic and Motivated Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Logiwa WMS**
-
-- 🌱 I’m currently learning **NextJS**
-
 - 💬 Ask me about **Typescript, Angular, React, HTML, CSS**
 
 - 📫 How to reach me **emaden99@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CSVjNKMXHvhNH8VtaUOebToAWlknndzG/view?usp=sharing](https://drive.google.com/file/d/1CSVjNKMXHvhNH8VtaUOebToAWlknndzG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
